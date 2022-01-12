@@ -2,3 +2,4 @@
 
 echo 'test';
 echo 'push';
+echo 'wsfeeder';
